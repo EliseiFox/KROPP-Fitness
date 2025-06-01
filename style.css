@@ -261,7 +261,7 @@ body {
     font-size: 16px;
     line-height: 1.75;
     color: var(--color-light-gray);
-    background-color: var(--color-dark);
+    background-color: var(--color-dark-alternate);
 }
 
 a, 
@@ -418,4 +418,9 @@ button:hover {
   .button {
     padding-inline: 20px;
   }
+}
+
+
+.funny-box {
+  background-color: var(--color-dark);
 }
